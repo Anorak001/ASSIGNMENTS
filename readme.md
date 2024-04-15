@@ -1,1 +1,1 @@
-REPO For Storing COllege Assignments
+REPO For Storing College Assignments
